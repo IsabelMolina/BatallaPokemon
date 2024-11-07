@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\Batalla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\Batalla.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\Batalla.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\Batalla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\bin\Debug\net8.0\Batalla.exe
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\bin\Debug\net8.0\Batalla.deps.json
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\bin\Debug\net8.0\Batalla.runtimeconfig.json
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\bin\Debug\net8.0\Batalla.dll
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\bin\Debug\net8.0\Batalla.pdb
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\Batalla.dll
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\refint\Batalla.dll
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\Batalla.pdb
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\Batalla.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Batalla\Batalla\obj\Debug\net8.0\ref\Batalla.dll
